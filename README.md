@@ -1,4 +1,6 @@
-# Double Prompts Learner: Classifer and Discriminator Mechanisms for Noisy Label Learning
+# CoPL-BLIP: Mitigating Self-Confirmation Bias in Robust Prompt Learning with Consensus-regularized Label Refurbishment and Quality Evaluation
+
+<img src="https://lzhms.oss-cn-hangzhou.aliyuncs.com/images/blog/publication/20250102131929.png" alt="CoPL-BLIP Framework"/>
 
 ## Install
 Setup conda environment:
